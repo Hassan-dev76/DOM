@@ -1,0 +1,18 @@
+.body{
+    background-color: bisque;
+    color: black
+}
+#changeTextBtn{
+    border: 1px solid red;
+    border-radius: 12px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: red;
+    cursor: pointer;
+    color: white;
+}
+#changeTextBtn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid red;
+}
